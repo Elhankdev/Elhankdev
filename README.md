@@ -1,9 +1,7 @@
 
-[![Elhanks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elhankdev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages and Tools I use
 
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python) (learning)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=Javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
