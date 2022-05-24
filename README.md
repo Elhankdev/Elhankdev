@@ -2,7 +2,7 @@
 ### Languages and Tools I use
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python) (learning)
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=Javascript)
+
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
 
